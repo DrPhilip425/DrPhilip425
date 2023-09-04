@@ -9,8 +9,7 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DrPhilip425&theme=tokyo-day)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
-![Static Badge](https://img.shields.io/badge/Linux-Tumbleweed-green)[![](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff)](https://reactjs.org/)[![](https://img.shields.io/badge/Steam-171a21?style=flat-square&logo=steam&logoColor=ffffff)](https://steamcommunity.com/id/)
-
+![Static Badge](https://img.shields.io/badge/openSUSE-Tumbleweed-plastic?logo=opensuse&logoColor=white) ![Static Badge](https://img.shields.io/badge/Program-Java-plastic?logo=intellijidea&logoColor=white) ![Static Badge](https://img.shields.io/badge/Reddit-Alita_owe-plastic?logo=reddit&logoColor=white) ![Static Badge](https://img.shields.io/badge/Steam-Alita-plastic?logo=steam&logoColor=white) 
 
 
 
