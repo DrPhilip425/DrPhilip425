@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+
+
+![info](https://github-readme-stats.vercel.app/api?username=DrPhilip425&show_icons=true&count_private=true&hide=prs&theme=moltack)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DrPhilip425&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **DrPhilip425/DrPhilip425** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
