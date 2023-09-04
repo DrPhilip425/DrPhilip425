@@ -1,9 +1,22 @@
-### Hi there 👋
+## Hi friend 👋
 
 ![](https://access-counter.vercel.app/api/counter?name=github-DrPhilip425&theme=006&length=7)
 
-![info](https://github-readme-stats.vercel.app/api?username=DrPhilip425&show_icons=true&count_private=true&hide=prs&theme=moltack)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DrPhilip425&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![info](https://github-readme-stats.vercel.app/api?username=DrPhilip425&show_icons=true&count_private=true&hide=prs&theme=moltack) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DrPhilip425&theme=moltack&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DrPhilip425&theme=tokyo-day)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
+![Static Badge](https://img.shields.io/badge/Linux-Tumbleweed-green)[![](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff)](https://reactjs.org/)[![](https://img.shields.io/badge/Steam-171a21?style=flat-square&logo=steam&logoColor=ffffff)](https://steamcommunity.com/id/)
+
+
+
+
+
+
+
 <!--
 **DrPhilip425/DrPhilip425** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
