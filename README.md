@@ -6,7 +6,7 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DrPhilip425&theme=tokyo-day)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DrPhilip425&theme=moltack)](https://git.io/streak-stats) ![info](https://github-readme-stats.vercel.app/api?username=DrPhilip425&show_icons=true&count_private=true&hide=prs&theme=moltack) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DrPhilip425&theme=moltack&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DrPhilip425&theme=moltack)](https://git.io/streak-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DrPhilip425&theme=moltack&layout=compact)](https://github.com/anuraghazra/github-readme-stats) ![info](https://github-readme-stats.vercel.app/api?username=DrPhilip425&show_icons=true&count_private=true&hide=prs&theme=moltack) 
 
 
 <!--
