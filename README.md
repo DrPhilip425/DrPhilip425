@@ -1,8 +1,16 @@
 # Look here friend 👋
+|||
+|:----|:----|
+|💡**programming**|![Static Badge](https://img.shields.io/badge/program-C-plastic?logo=c&logoColor=#A8B9CC)![Static Badge](https://img.shields.io/badge/program-C++-plastic?logo=cplusplus&logoColor=#00599C)|
+|🌱**programming learning**|![Static Badge](https://img.shields.io/badge/program-Java-plastic?logo=openjdk&logoColor=#FFFFFF)![Static Badge](https://img.shields.io/badge/program-Python-plastic?logo=python&logoColor=#3776AB)![Static Badge](https://img.shields.io/badge/program-Go-plastic?logo=go&logoColor=#00ADD8)|
+|⚙️**software**|![Static Badge](https://img.shields.io/badge/software-Idea-plastic?logo=intellijidea&logoColor=#000000)![Static Badge](https://img.shields.io/badge/software-VSCode-plastic?logo=visualstudiocode&logoColor=#007ACC)![Static Badge](https://img.shields.io/badge/software-VMware_Workstastion-plastic?logo=vmware&logoColor=#607078)|
+🛠️**software learning**|![Static Badge](https://img.shields.io/badge/software-Docker-plastic?logo=docker&logoColor=#2496ED)![Static Badge](https://img.shields.io/badge/software-MySql-plastic?logo=mysql&logoColor=#4479A1)|
+|💻**system**|![Static Badge](https://img.shields.io/badge/Windows-11-plastic?logo=windows11&logoColor=#0078D4)|
+|🔎**system learning**|![Static Badge](https://img.shields.io/badge/openSUSE-Tumbleweed-plastic?logo=opensuse&logoColor=green)|
+|||
 
-|
 
-![Static Badge](https://img.shields.io/badge/openSUSE-Tumbleweed-plastic?logo=opensuse&logoColor=green) ![Static Badge](https://img.shields.io/badge/Docker-Linux-plastic?logo=docker&logoColor=#2496ED) ![Static Badge](https://img.shields.io/badge/Program-Java-plastic?logo=intellijidea&logoColor=#000000) ![Static Badge](https://img.shields.io/badge/Program-C++-plastic?logo=cplusplus&logoColor=#00599C) ![Static Badge](https://img.shields.io/badge/Program-C-plastic?logo=c&logoColor=#A8B9CC) ![Static Badge](https://img.shields.io/badge/Program-Python-plastic?logo=python&logoColor=#3776AB) ![Static Badge](https://img.shields.io/badge/Program-Go-plastic?logo=go&logoColor=#00ADD8) 
+      
  ![Static Badge](https://img.shields.io/badge/Reddit-Alita_owe-plastic?logo=reddit&logoColor=#FF4500) ![Static Badge](https://img.shields.io/badge/Steam-Alita-plastic?logo=steam&logoColor=#000000) ![Static Badge](https://img.shields.io/badge/Hexo-Alita-plastic?logo=hexo&logoColor=#0E83CD) ![Static Badge](https://img.shields.io/badge/Youtube-Alita-plastic?logo=youtube&logoColor=#FF0000) ![Static Badge](https://img.shields.io/badge/Bilibili-从零开始丢你蕾姆-plastic?logo=bilibili&logoColor=#00A1D6) ![Static Badge](https://img.shields.io/badge/Stack_overflow-DrPhilip425-plastic?logo=stackoverflow&logoColor=#F58025)
 <div align=center><img src="https://access-counter.vercel.app/api/counter?name=github-DrPhilip425&theme=006&length=7"></src></div>
 
