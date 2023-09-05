@@ -1,4 +1,4 @@
-# Look here friend 👋
+# ✨Look here friends 👋
 ![](https://raw.githubusercontent.com/DrPhilip425/PicGo-PicStore/main/images/100166233_p0_master1200.jpg)
 ---
 ## 🔗What am I doing?
@@ -23,17 +23,3 @@
 ![GitHub Streak](https://streak-stats.demolab.com/?user=DrPhilip425&theme=moltack)![info](https://github-readme-stats.vercel.app/api?username=DrPhilip425&show_icons=true&count_private=true&hide=prs&theme=moltack)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DrPhilip425&theme=moltack&layout=compact)
 ---
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DrPhilip425&theme=tokyo-day)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
-
-<!--
-**DrPhilip425/DrPhilip425** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
--  I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- ⚡ Fun fact: ...
--->
